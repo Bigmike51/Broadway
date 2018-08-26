@@ -8,6 +8,13 @@
    text-align: center;
    background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
  }
+ .October {
+   text-align: center;
+ }
+ .November {
+   text-align: center;
+
+ }
  .route {
    color: white;
    font-family: Helvetica;
@@ -39,5 +46,7 @@
 
  }
  .footer {
-background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+   background-color: dimgray;
+   font-size: 11px;
+   
    }
